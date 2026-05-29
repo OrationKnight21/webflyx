@@ -1,6 +1,5 @@
-#bookbot
 # contents
-#BookBot is my first [Boot.dev](https://www.boot.dev) project!
 
-#This project takes the entire content of the book and returns the number of times each character is #repeated 
-#(except special characters like " ","&", etc.).
+- titles.md: The movie titles in the WebFlyx collection
+- classics.csv: A comma-separated list of classic movies
+- quotes: A directory of files containing memorable quotes from movies
